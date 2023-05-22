@@ -2,6 +2,7 @@
   "name": "messages-generator",
   "displayName": "messages-generator",
   "description": "",
+  "repository": "https://github.com/OnionGL/messages-generator",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
